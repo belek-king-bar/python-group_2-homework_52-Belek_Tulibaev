@@ -46,8 +46,8 @@ class App extends Component {
                         <Sidebar kyrgyzairlines="Manas Air" turkishairlines="Turkish Airlines" emiratesairlines= "Fly Emirates"
                                  russianairlines="Aeroflot"/>
                     </Row>
-                    <Row>
-                        <Footer name="Белек" />
+                    <Row className="mt-5">
+                        <Footer addres="Чуй-Тоголок Молдо" phone="996777787878"/>
                     </Row>
 
                 </Container>
